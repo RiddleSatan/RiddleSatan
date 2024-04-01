@@ -9,7 +9,7 @@ Just completed a year in my coding journey
 * 🌍  I'm based in Uttar Pradesh,India
 * ✉️  You can contact me at [ompandey007j@gmail.com](mailto:ompandey007j@gmail.com)
 * 🚀  I'm currently working on [Online Retail Platform Specializing in Footwear Sales](http://github.com/RiddleSatan/Nike)
-* 🧠  I'm learning React and Tailwindcss
+* 🧠  I'm learning Nodejs with express and mongodb with mongoose
 * 🤝  I'm open to collaborating on Anything related to Webapps
 * ⚡  Just a Potter head
 
